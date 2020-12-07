@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3380c7d-bcd9-4685-94b6-a5f966251528" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Kotlin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/com/example/app/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/com/example/app/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/com/example/app/widget/CodeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/java/com/example/core/BaseApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/java/com/example/core/BaseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/java/com/example/core/BaseViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/java/com/example/core/http/EntityCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/java/com/example/core/http/HttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/java/com/example/core/utils/CacheUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/java/com/example/core/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/base/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/java/com/example/lesson/LessonActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/java/com/example/lesson/LessonAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/java/com/example/lesson/LessonPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/java/com/example/lesson/entity/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/res/layout/activity_lesson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/res/layout/item_lesson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/res/menu/menu_lesson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/lesson/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="HenCoderPlus5/invalid/Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectId" id="1lJoC1BFDZbJhMvAuYpi3qjr7Eq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3380c7d-bcd9-4685-94b6-a5f966251528" name="Default Changelist" comment="" />
+      <created>1607324423945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607324423945</updated>
+      <workItem from="1607324425606" duration="87000" />
+      <workItem from="1607324520243" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
