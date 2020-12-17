@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:background="@color/colorAccent" />
+
+        <!--        <com.hencoder.nestedscroll.view.NestedScalableImageView-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="400dp" />-->
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="400dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="#550000" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="#ff00ff" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="@color/colorPrimaryDark" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="#550000" />
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
